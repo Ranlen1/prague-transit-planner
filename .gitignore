@@ -1,1 +1,7 @@
-data/
+data/calendar_dates.txt
+data/calendar.txt
+data/routes.txt
+data/stops.txt
+data/stop_times.txt
+data/transfers.txt
+data/trips.txt
